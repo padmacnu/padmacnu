@@ -17,7 +17,7 @@ I specialize in building **high-density Design Systems** for complex infrastruct
 **Titan** is a multi-mode, high-density system built for cloud infrastructure management.
 * [**View Figma Spec**](Your_Figma_Link) - Variable-driven architecture.
 * [**View Component Library**](Your_Repo_Link) - Headless React implementation.
-* [**Read the Case Study**](./TITAN_RETROSPECTIVE.md) - How I solved density vs. legibility.
+* [**Read the Case Study**](https://github.com/padmacnu/Titan/blob/main/TITAN_RETROSPECTIVE.md) - How I solved density vs. legibility.
 
 ---
 
