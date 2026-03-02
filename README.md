@@ -15,6 +15,7 @@ I specialize in building **high-density Design Systems** for complex infrastruct
 
 ## 🛠️ Featured Project: Titan Design System
 **Titan** is a multi-mode, high-density system built for cloud infrastructure management.
+* [**View React Architecture**](https://github.com/padmacnu/React-Components-Architecture-2026) Complete React Components Architecture for 2026
 * [**View Figma Spec**](Your_Figma_Link) - Variable-driven architecture.
 * [**View Component Library**](Your_Repo_Link) - Headless React implementation.
 * [**Read the Case Study**](https://github.com/padmacnu/Titan/blob/main/TITAN_RETROSPECTIVE.md) - How I solved density vs. legibility.
